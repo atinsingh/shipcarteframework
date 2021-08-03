@@ -1,0 +1,4 @@
+package io.pragra.testing.framework.data;
+
+public class DBData {
+}
